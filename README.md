@@ -12,5 +12,5 @@ I’m someone who can balance both being outgoing and introverted. I enjoy conne
 
 - 
 ### Midterm Projects
-- [Midterm Task 01]()
+- [Midterm Task 01](https://github.com/arshPatchak/demo_projects/blob/main/Midterm%20Outputs/Lab%20Task%2001/Midterm%20Task%201%202%20Dimensional%20Arrays.pdf)
 - [Midterm task 02]()
